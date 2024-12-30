@@ -1,4 +1,4 @@
-The data was Pizzahut, India sales for the year 2015.
+The data was Pizzahut, India sales for the year 2015
 
 The following questions were tackeled using SQL in this project
 
